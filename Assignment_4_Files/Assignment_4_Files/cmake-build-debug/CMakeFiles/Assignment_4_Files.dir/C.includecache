@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/OSU Comp Sci/CS 261/assignments/assignment4/Assignment_4_Files/Assignment_4_Files/bst.c
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+string.h
+-
+bst.h
+E:/OSU Comp Sci/CS 261/assignments/assignment4/Assignment_4_Files/Assignment_4_Files/bst.h
+structs.h
+E:/OSU Comp Sci/CS 261/assignments/assignment4/Assignment_4_Files/Assignment_4_Files/structs.h
+stdio.h
+-
+
+E:/OSU Comp Sci/CS 261/assignments/assignment4/Assignment_4_Files/Assignment_4_Files/bst.h
+
+E:/OSU Comp Sci/CS 261/assignments/assignment4/Assignment_4_Files/Assignment_4_Files/compare.c
+stdio.h
+-
+assert.h
+-
+bst.h
+E:/OSU Comp Sci/CS 261/assignments/assignment4/Assignment_4_Files/Assignment_4_Files/bst.h
+structs.h
+E:/OSU Comp Sci/CS 261/assignments/assignment4/Assignment_4_Files/Assignment_4_Files/structs.h
+
+E:/OSU Comp Sci/CS 261/assignments/assignment4/Assignment_4_Files/Assignment_4_Files/structs.h
+
